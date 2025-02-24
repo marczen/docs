@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "mefriend documentation",
   "colors": {
     "primary": "#894EFD",
     "light": "#8861FF",
     "dark": "#AF2FF9"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "navigation": {
     "tabs": [
       {
@@ -31,11 +31,6 @@
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Chat with Support",
-          "href": "https://mintlify.com/community",
-          "icon": "hands-helping"
-        },
-        {
           "anchor": "Join our Discord Server",
           "href": "https://discord.gg/h6Bd5HN54M",
           "icon": "discord"
@@ -44,8 +39,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "mefriend.ai",
+    "dark": "mefriend.ai"
   },
   "navbar": {
     "links": [
@@ -53,12 +48,7 @@
         "label": "Support",
         "href": "mailto://support@mefriend.ai"
       }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
+    ]
   },
   "footer": {}
 }
