@@ -58,19 +58,19 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Go to Mefriend",
+          "href": "https://mefriend.ai",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
+          "anchor": "Support",
           "href": "https://mintlify.com/community",
           "icon": "slack"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Discord Community",
+          "href": "https://discord.gg/h6Bd5HN54M",
+          "icon": "discord"
         }
       ]
     }
