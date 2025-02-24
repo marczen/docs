@@ -39,17 +39,17 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Go to Mefriend",
+          "anchor": "Back to Mefriend.ai",
           "href": "https://mefriend.ai",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Support",
+          "anchor": "Chat with Support",
           "href": "https://mintlify.com/community",
           "icon": "slack"
         },
         {
-          "anchor": "Discord Community",
+          "anchor": "Join our Discord Server",
           "href": "https://discord.gg/h6Bd5HN54M",
           "icon": "discord"
         }
