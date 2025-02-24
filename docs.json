@@ -39,8 +39,8 @@
     }
   },
   "logo": {
-    "light": "mefriend.ai",
-    "dark": "mefriend.ai"
+    "light": "/logo/logo_light.svg",
+    "dark": "/logo/logo_dark.svg"
   },
   "navbar": {
     "links": [
