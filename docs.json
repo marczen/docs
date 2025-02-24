@@ -17,9 +17,7 @@
             "group": "Get Started",
             "pages": [
               "introduction",
-              "quickstart",
-              "development",
-              "test"
+              "creator_club"
             ]
           }
         ]
