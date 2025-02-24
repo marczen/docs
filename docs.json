@@ -19,6 +19,12 @@
               "introduction",
               "creator_club"
             ]
+          },
+          {
+            "group": "Changelog",
+            "pages": [
+              "transition_to_coins"
+            ]
           }
         ]
       }
