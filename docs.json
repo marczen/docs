@@ -25,6 +25,12 @@
             "pages": [
               "transition_to_coins"
             ]
+          },
+          {
+            "group": "Policy",
+            "pages": [
+              "content_policy"
+            ]
           }
         ]
       }
