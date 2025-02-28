@@ -34,7 +34,12 @@
           {
             "group": "Terms & Conditions",
             "pages": [
-              "content_policy",
+              "content_policy"
+            ]
+          },
+          {
+            "group": "Changes",
+            "pages": [
               "transition_to_coins"
             ]
           }
