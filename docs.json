@@ -25,9 +25,14 @@
             "pages": [
               "transition_to_coins"
             ]
-          },
+          }
+        ]
+      },
+      {
+        "tab": "Terms & Conditions",
+        "groups": [
           {
-            "group": "Policy",
+            "group": "Terms & Conditions",
             "pages": [
               "content_policy"
             ]
