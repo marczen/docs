@@ -23,7 +23,6 @@
           {
             "group": "Changelog",
             "pages": [
-              "transition_to_coins",
               "changelog_2025_02_28"
             ]
           }
@@ -35,7 +34,8 @@
           {
             "group": "Terms & Conditions",
             "pages": [
-              "content_policy"
+              "content_policy",
+              "transition_to_coins"
             ]
           }
         ]
