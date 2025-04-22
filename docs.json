@@ -23,6 +23,7 @@
           {
             "group": "Welcome Xoul Users",
             "pages": [
+              "xoul_welcome",
               "xoul_integration_guide__2025_04_22"
             ]
           },
