@@ -21,9 +21,15 @@
             ]
           },
           {
+            "group": "Welcome Xoul Users",
+            "pages": [
+              "xoul_integration_guide__2025_04_22"
+            ]
+          },
+          {
             "group": "Changelog",
             "pages": [
-              "changelog_2025_04_22",
+
               "changelog_2025_04_16",
               "changelog_2025_04_01",
               "changelog_2025_03_25",
