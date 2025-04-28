@@ -15,21 +15,16 @@
         "groups": [
           {
             "group": "Get Started",
-            "pages": [
-              "introduction",
-              "creator_club"
-            ]
+            "pages": ["introduction", "creator_club"]
           },
           {
             "group": "Welcome Xoul Users",
-            "pages": [
-              "xoul_welcome",
-              "xoul_integration_guide__2025_04_22"
-            ]
+            "pages": ["xoul_welcome", "xoul_integration_guide__2025_04_22"]
           },
           {
             "group": "Changelog",
             "pages": [
+              "changelog_2025_04_28",
               "changelog_2025_04_25",
               "changelog_2025_04_23",
               "changelog_2025_04_16",
@@ -47,15 +42,11 @@
         "groups": [
           {
             "group": "Terms & Conditions",
-            "pages": [
-              "content_policy"
-            ]
+            "pages": ["content_policy"]
           },
           {
             "group": "Changes",
-            "pages": [
-              "transition_to_coins"
-            ]
+            "pages": ["transition_to_coins"]
           }
         ]
       }
