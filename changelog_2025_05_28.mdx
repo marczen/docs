@@ -1,0 +1,153 @@
+---
+title: "Chat Presets, Preview Mode & more (v1.9 – May 28 2025)"
+description: "Powerful chat presets for enhanced responses, preview mode with draft system, advanced lorebook controls, and character wallpapers."
+---
+
+
+<Tabs>
+  <Tab title="What's New">
+      We're excited to bring you our most creator-focused update yet! Version 1.9 introduces powerful preset management, enhanced character creation workflow, and advanced lorebook controls. 🚀
+
+  </Tab>
+</Tabs>
+
+
+## 1) 🎛️ Chat Presets - Fine-tune Every Conversation
+
+Take complete control over your AI conversations with our new **Chat Presets** system. Create custom configurations that combine models, sampling parameters, and system prompts for the perfect chat experience.
+
+
+<div align="center">
+  <img src="/images/changelog/2025_05_28/preset_2.png" alt="Chat Presets Interface" />
+</div>
+
+
+### What You Can Control:
+- **Model Selection**: Choose from **Titan** (685B, Unmatched intelligence), **Muse** (70B, high intelligence), **Spark** (8B, balanced creativity), or **Lite** (8B, free model) with more models coming soon. Detailed model descriptions are in this [changelog](https://docs.mefriend.ai/changelog_2025_05_12). 
+- **Custom System Prompts**: Write your own instructions or enhance our built-in prompts (**text-adventure**, **roleplay-immersive**, **roleplay-detailed**, **general-roleplay**). More built-in prompts coming soon!
+- **Sampling Parameters**: Control the randomness and creativity of your AI responses with our new simplified interface.
+  
+  <Accordion title="Sampling Parameters Explained">
+
+  | **Parameter**         | **Range**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Description**                                                                 |
+  |-----------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------|
+  | **Temperature**       | 0.0&nbsp;–&nbsp;2.0                                      | Controls randomness. Lower → more focused; higher → more creative and unpredictable. |
+  | **Top P**             | 0.0&nbsp;–&nbsp;1.0                                      | Nucleus sampling: keeps highest-probability tokens whose cumulative probability ≥ Top P. Lower → tighter vocabulary; higher → more diverse. |
+  | **Max Tokens**        | 1&nbsp;–&nbsp;700                                        | The cap on tokens in the model's response. Higher → longer replies (and more cost). |
+  | **Frequency Penalty** | -2.0&nbsp;–&nbsp;2.0                                     | Penalizes frequent tokens. Positive → less repetition of common words/phrases.    |
+  | **Presence Penalty**  | -2.0&nbsp;–&nbsp;2.0                                     | Encourages novel content. Positive → more likely to introduce new topics.         |
+  | **Repetition Penalty**| 0.0&nbsp;–&nbsp;2.0                                      | Specifically discourages verbatim repeats. Higher → fewer exact phrase re-uses.   |
+  | **Top K**             | 0&nbsp;–&nbsp;100                                        | Limits to the top K most probable tokens. Lower → even tighter focus than Top P.  |
+  | **Min P**             | 0.0&nbsp;–&nbsp;1.0                                      | Minimum probability threshold for candidate tokens. Higher → more conservative choices. |
+
+  </Accordion>
+- **Preset Sharing**: Link your preset with characters—other users will see your settings as recommended when chatting with that character
+- **Easy Preset Access**: Create and update presets directly from the Character create/edit page
+
+Perfect for creators who want to ensure their characters perform at their absolute best!
+
+---
+
+## 2) 🔍 Preview Mode & Draft System
+
+Quality control just got a major upgrade! Test your characters before publishing and perfect them with our new preview and draft system.
+
+<div align="center">
+  <img src="/images/changelog/2025_05_28/preview_1.png" alt="Preview Mode Interface" />
+</div>
+
+
+### Enhanced Creation Workflow:
+- **Save as Draft**: Work on characters without publishing immediately
+- **Preview Testing**: Chat with your character during creation. It doesn't cost any coins, so you can test as much as you want!
+- **Draft Management**: Access all your drafts from "Create from Draft"
+  <div align="center">
+    <img src="/images/changelog/2025_05_28/draft_1.png" alt="Draft Management" width="300" />
+  </div>
+
+- **Preset Integration**: Test different presets to find the perfect setup
+- **Auto-Save Protection**: Never lose your work again! If you accidentally close the browser or navigate away without saving to draft or publishing, your character progress is automatically preserved in "Drafts" for seamless recovery
+  <div align="center">
+    <img src="/images/changelog/2025_05_28/draft_2.png" alt="Draft Management" width="300" />
+  </div>
+
+### Why This Matters:
+- **Quality Assurance**: Catch issues before your character goes live
+- **Iterative Design**: Refine personality and responses through testing
+- **Confidence**: Publish knowing your character performs exactly as intended
+
+No more publishing and hoping for the best—now you can perfect every detail first!
+
+
+---
+
+## 3) 📚 Advanced Lorebook Controls
+
+Lorebooks just got more powerful with **Insertion Depth** control, giving you precise control over when and how lore activates. 
+When you create a lorebook entry, you can now choose how deep the lore should be inserted into the prompt.
+
+<div align="center">
+  <img src="/images/changelog/2025_05_28/lorebook_1.png" alt="Lorebook Insertion Depth Settings" width="300"/>
+</div>
+
+### New Lorebook Features:
+- **Insertion Depth**: Control exactly where lorebook content appears in the prompt
+- **Better Performance**: More efficient lorebook processing
+- **Enhanced Scanning**: Improved keyword detection and activation
+
+<Info>
+  **Pro Tip**: Use shallow insertion depths for immediate context and deeper depths for background lore that should influence the entire conversation.
+</Info>
+
+---
+
+## 4) 🖼️ Character Wallpapers
+
+Set custom wallpapers for your characters when you create your character! When users start a chat with your character, your selected wallpaper will automatically be applied to create the perfect atmosphere.
+
+### Features:
+- **Automatic Setup**: If you set a wallpaper to your character, all chatrooms with that character will automatically have the wallpaper applied
+- **Immersive Experience**: Match visuals to your character's world
+- **Creator Control**: Set the mood before the first message
+
+---
+
+## 5) 🔄 Streamlined Chatroom Interface
+
+We've reorganized the chatroom UI to work seamlessly with the new preset system, making everything more intuitive and accessible.
+
+### What's Changed:
+- **Model Selection Moved**: Find model switching in the **right menu** within chatrooms
+- **System Prompts Integrated**: Custom system prompts are now part of presets for better organization
+- **Automatic Migration**: Your existing custom system prompts have been automatically converted to presets
+
+<div align="center">
+  <img src="/images/changelog/2025_05_28/chatroom_1.png" alt="Chatroom Interface" width="800"/>
+</div>
+
+<Warning>
+  Don't worry about losing your custom prompts! Check "My Settings" to find presets like "Your preset for [character name]" containing all your previous custom system prompts.
+</Warning>
+
+This reorganization makes the interface cleaner while ensuring all your personalized settings are preserved and easily accessible through the preset system.
+
+---
+
+<CardGroup cols={2}>
+  <Card title="For Creators" icon="paintbrush">
+    Perfect your characters with preview mode, optimize responses with presets, and create immersive experiences with wallpapers.
+  </Card>
+  
+  <Card title="For Chatters" icon="comments">
+    Enjoy enhanced conversations with creator-recommended presets and richer lore integration through advanced lorebooks.
+  </Card>
+</CardGroup>
+
+---
+
+<Note>
+  **Ready to create something amazing?**\
+  These tools put professional-grade character creation at your fingertips. We can't wait to see what you build!
+  
+  — The Mefriend AI Team
+</Note>
