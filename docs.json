@@ -15,7 +15,7 @@
         "groups": [
           {
             "group": "Get Started",
-            "pages": ["introduction", "creator_club", "explain_subscription"]
+            "pages": ["introduction", "creator_club"]
           },
           {
             "group": "Welcome Xoul Users",
