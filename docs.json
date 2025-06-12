@@ -15,7 +15,7 @@
         "groups": [
           {
             "group": "Get Started",
-            "pages": ["introduction", "creator_club"]
+            "pages": ["introduction", "creator_club", "explain_subscription"]
           },
           {
             "group": "Welcome Xoul Users",
@@ -36,8 +36,6 @@
               "changelog_2025_03_18",
               "changelog_2025_03_10",
               "changelog_2025_02_28",
-              "explain_subscription",
-              "explain_subscription_2"
             ]
           }
         ]
